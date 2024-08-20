@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
 
-    //declaração de variaves e incialização com zero 
+    //declaraÃ§Ã£o de variaves e incializaÃ§Ã£o com zero 
     inteiro numero = 0, contador = 0
 
     enquanto(numero >=0) {
